@@ -1,0 +1,4 @@
+split,interactions,positive_rate,path
+train,301471,0.6624418269087242,data/splits/paper_seed3407/train.csv
+val,100490,0.6629216837496268,data/splits/paper_seed3407/val.csv
+test,100491,0.6631340120010747,data/splits/paper_seed3407/test.csv
